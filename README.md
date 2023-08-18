@@ -16,9 +16,14 @@ Run Demo_NFTDGSTV.
 ## Citation
 
 ```
-  Infrared Small Target Detection via Nonconvex Tensor Tucker Decomposition with Factor Prior
+  @article{liu2023infrared,
+  title={Infrared Small Target Detection via Nonconvex Tensor Tucker Decomposition with Factor Prior},
+  author={Liu, Ting and Yang, Jungang and Li, Boyang and Wang, Yingqian and An, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023},
+  publisher={IEEE}
+}
   
-
 
 ```
 
