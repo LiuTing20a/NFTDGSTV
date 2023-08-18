@@ -12,6 +12,9 @@ with factors prior for infrared small target detection. In our method, we use lo
 ## Get Started
 Run Demo_NFTDGSTV.
 
+## Details
+For details such as parameter setting, please refer to [<a href="https://ieeexplore.ieee.org/document/10190750">pdf</a>].
+
 
 ## Citation
 
